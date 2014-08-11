@@ -61,5 +61,6 @@
 	<classpathentry kind="lib" path="C:/Automation/AutomationFramework/Libraries/xercesImpl-2.10.0.jar"/>
 	<classpathentry kind="lib" path="C:/Automation/AutomationFramework/Libraries/xml-apis.jar"/>
 	<classpathentry kind="lib" path="C:/Automation/AutomationFramework/Libraries/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="lib" path="C:/Users/srinivas/Downloads/screen-recorder-r2.2.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
